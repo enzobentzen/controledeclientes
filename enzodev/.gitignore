@@ -1,0 +1,9 @@
+config/database.php
+uploads/
+node_modules/
+img/
+webalizer/
+applications.html
+bitnami.css
+favicon.ico
+index.php
