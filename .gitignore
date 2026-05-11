@@ -1,0 +1,9 @@
+enzodev/config/database.php
+enzodev/uploads/
+enzodev/frontend/node_modules/
+img/
+webalizer/
+applications.html
+bitnami.css
+favicon.ico
+index.php
