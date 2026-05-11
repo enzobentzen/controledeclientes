@@ -25,7 +25,7 @@ $list = $db->showClients($_SESSION['user_id']);
 
 
         <div class="flex items-center justify-between mb-6">
-            <h1 class="text-xl font-semibold text-white">Meus Clientes</h1>
+            <h1 class="text-xl font-semibold text-white">Meus Clientes:</h1>
             <a href="form.php" class="bg-blue-700 text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-blue-800">
                 + Adicionar cliente
             </a>
