@@ -75,7 +75,7 @@ if (isset($_POST['submit'])) {
 
         <p class="text-center text-sm text-gray-500 mt-4">
             Não tem uma conta?
-            <a href="../clients/form.php" class="text-black font-semibold hover:underline">Cadastre-se</a>
+            <a href="register.php" class="text-black font-semibold hover:underline">Cadastre-se</a>
         </p>
     </div>
 
